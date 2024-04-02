@@ -179,7 +179,7 @@ label {
 }
 
 h3 span {
-  color: #414F5B;
+  color: #d1d2d4;
 }
 /* button style */
 
@@ -672,7 +672,7 @@ h3 span {
 	margin-bottom: 20px;
 }
 .slider-content h1 span {
-	color: #414F5B;
+	color: #d1d2d4; /* diff grey */
 }
 .slider-content p {
 	font-size: 16px;
